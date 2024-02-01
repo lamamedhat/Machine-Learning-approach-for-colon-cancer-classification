@@ -11,7 +11,7 @@ To run the code, use the following command:
 python classifier.py <csv_path> <output_directory>
 ```
 # Sample Input
-
+[sample input](https://raw.githubusercontent.com/lamamedhat/Machine-Learning-approach-for-colon-cancer-classification/main/Data/colon-labled.csv)
 
 # Sample Output
 ![Result](https://github.com/lamamedhat/Machine-Learning-approach-for-colon-cancer-classification/assets/111204965/515b0277-0b5f-4967-a39e-f8981e052a50)
