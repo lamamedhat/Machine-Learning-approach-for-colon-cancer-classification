@@ -2,6 +2,7 @@
 This repository contains code that performs various data analysis and Machine learning tasks. Generate a correlation matrix between features, filter the correlated columns based on a specified threshold, determine the best classifier using the Lazypredict Algorithm. Perform hyperparameter tuning using K-Fold and nested K-Fold cross-validation.
 
 # Run 
+You can install dependencies using the following command:
 ``bash
 pip install -r requirements.txt
 ``
