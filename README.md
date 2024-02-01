@@ -4,9 +4,9 @@ This repository contains code that performs various data analysis and Machine le
 # Run 
 You can install dependencies using the following command:
 
-``bash
+```bash
 pip install -r requirements.txt
-``
+```
 # Usage
 To run the code, use the following command:
 ```bash
